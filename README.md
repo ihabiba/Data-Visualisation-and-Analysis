@@ -45,7 +45,7 @@ As part of an Information Visualization academic paper, this dashboard was desig
 
 ## 🔗 Project Links
 
-* **Live Interactive Dashboard**: [YOUR_TABLEAU_PUBLIC_LINK_HERE](https://public.tableau.com/app/profile/abdulrahman.alamodi6148/viz/Sales_and_Customer_Insights_17723553039370/SalesandCustomerInsightsDashboard?publish=yes)
+* **Live Interactive Dashboard**: [TABLEAU_DASHBOARD_PUBLIC_LINK_HERE]([https://public.tableau.com/app/profile/abdulrahman.alamodi6148/viz/Sales_and_Customer_Insights_17723553039370/SalesandCustomerInsightsDashboard?publish=yes](https://public.tableau.com/app/profile/habiba.hassan8767/viz/Sales_and_Customer_Insights/SalesandCustomerInsightsDashboard))
 
 ---
 
